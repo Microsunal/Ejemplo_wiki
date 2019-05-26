@@ -15,6 +15,7 @@
 ;
             XDEF _Startup
             ABSENTRY _Startup
+            nop
 
 ;
 ; variable/data section
